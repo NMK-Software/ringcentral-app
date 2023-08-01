@@ -1,4 +1,4 @@
-## Ring Central
+## Template app publica HubSpot
 
 #### Iniciar Proyecto
 

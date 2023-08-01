@@ -1,6 +1,6 @@
 /* Header */
 header {
-  background: linear-gradient(183deg, #fcfcfc, #1979f771);
+  background: linear-gradient(183deg, #fcfcfc, var(--primary-color-dark));
   padding: 10rem 0 5rem;
 }
 
